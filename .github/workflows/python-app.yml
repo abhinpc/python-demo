@@ -36,4 +36,4 @@ jobs:
              cp requirements.txt build/
       - name: Run tests
         run: |
-              pytest          
+          pytest          
